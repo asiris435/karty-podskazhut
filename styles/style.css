@@ -38,12 +38,12 @@ figure {
   margin: 0;
 }
 
-a,
+a:focus,
 button:focus {
   outline: none;
 }
 
-a,
+a:focus-visible,
 button:focus-visible {
   outline: 1px solid currentColor;
 }
