@@ -1,1 +1,1 @@
-# karty-podskazhut
+# Проект karty-podskazhut https://asiris435.github.io/karty-podskazhut/
